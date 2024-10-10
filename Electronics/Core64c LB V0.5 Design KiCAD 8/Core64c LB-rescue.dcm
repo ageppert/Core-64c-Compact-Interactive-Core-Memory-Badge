@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MMBT4401LT1G-Digikey-Transistors
+F http://www.onsemi.com/pub/Collateral/MMBT4401LT1-D.PDF
+$ENDCMP
+#
+$CMP MMBT4403LT1G-Digikey-Transistors
+F http://www.onsemi.com/pub/Collateral/MMBT4403LT1-D.PDF
+$ENDCMP
+#
+$CMP SGM2007-3.3XN5_TR-SG_MICRO_SGM2007-3.3XN5
+F http://www.ti.com/lit/gpn/tps7a05
+$ENDCMP
+#
+#End Doc Library
